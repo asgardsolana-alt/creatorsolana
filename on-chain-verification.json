@@ -1,0 +1,45 @@
+{
+  "_comment": "Data verified on-chain on 2026-09-21. Token uses Token-2022 native metadata (not Metaplex).",
+  "mint": "9ifFPcYRihBz1aWkg6wpYuyVar5RfhCvmfg83NQWe4CK",
+  "program": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+  "program_name": "Token-2022",
+  "on_chain_metadata": {
+    "name": "ASGARD",
+    "symbol": "ASG",
+    "uri": "https://asgardsolana.com/tokens/asg-v4.json",
+    "extensions": {
+      "website": "https://asgardsolana.com/",
+      "twitter": "https://x.com/Asgardsolana",
+      "telegram": "https://t.me/+IZwwg3p5GtAwM2Vh"
+    }
+  },
+  "authorities": {
+    "mint_authority": "revoked",
+    "freeze_authority": "revoked",
+    "update_authority": "5vFtbp2nnryFMAbRxTEUuSAJELEPodhTGXrzZ2ygSYrU",
+    "update_authority_note": "Pending revocation - transfer to null or Squads multisig"
+  },
+  "supply": {
+    "total": "1000000000",
+    "decimals": 9,
+    "circulating": "TBD"
+  },
+  "vaults": {
+    "lp_raydium": "6235x4QR4ALhf1ASeMurjVFoPdqjRTia5rKHX3otP7bR",
+    "staking": "ArsGb9AxLsqUUn8cfAEePEdSytzaVyyKSEAqR6pGUaA",
+    "treasury": "Cj9469RkEgg23D8euH5bAjqp2dK6mpP5Fpx3ZzvfxGfi",
+    "airdrop_cold": "4J4LB1dgEdhT1bWKicFS6D7NtDJRrwZiBodupF1HLkb7",
+    "airdrop_hot": "CoubDx4vCxzhEi2GzwTPuXs5cLzRjTqEzZB3rPLyz3wg",
+    "team": "BcFamsWG4V98aHJpo3MVUKhBoVPc9UuEp9JEyexdNkGH",
+    "seed_round": "9iV5fpGBrhdSiLsrKUR18vLUSux4YRoKqaTNkw11R5sZ"
+  },
+  "tokenomics": {
+    "lp_reserve": "25%",
+    "staking_flywheel": "24.5%",
+    "treasury": "20%",
+    "airdrop": "17.8%",
+    "team": "10%",
+    "seed_round": "2.5%",
+    "transfer_fee": "0%"
+  }
+}
