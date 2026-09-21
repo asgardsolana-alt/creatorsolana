@@ -1,0 +1,16 @@
+{
+  "chainId": 101,
+  "address": "9ifFPcYRihBz1aWkg6wpYuyVar5RfhCvmfg83NQWe4CK",
+  "symbol": "ASG",
+  "name": "ASGARD",
+  "decimals": 9,
+  "logoURI": "https://asgardsolana.com/tokens/asgsl.png",
+  "tags": ["token-2022", "community", "defi", "utility"],
+  "extensions": {
+    "website": "https://asgardsolana.com/",
+    "twitter": "https://twitter.com/Asgardsolana",
+    "telegram": "https://t.me/+IZwwg3p5GtAwM2Vh",
+    "github": "https://github.com/asgardsolana-alt/creatorsolana",
+    "description": "ASGARD (ASG) — Native utility and governance token of the Asgard Solana ecosystem. Fixed supply 1B, permanently revoked mint/freeze authorities, Token-2022 standard."
+  }
+}
