@@ -1,0 +1,18 @@
+{
+  "token_name": "ASGARD",
+  "token_symbol": "ASG",
+  "mint_address": "9ifFPcYRihBz1aWkg6wpYuyVar5RfhCvmfg83NQWe4CK",
+  "logo_url": "https://asgardsolana.com/tokens/asgsl.png",
+  "website": "https://asgardsolana.com/",
+  "twitter": "https://x.com/Asgardsolana",
+  "telegram": "https://t.me/+IZwwg3p5GtAwM2Vh",
+  "github": "https://github.com/asgardsolana-alt/creatorsolana",
+  "description": "ASGARD (ASG) — Native utility token of the Asgard Solana ecosystem. Non-custodial SPL/Token-2022 platform. Fixed supply 1B. Revoked authorities.",
+  "aggregator_links": {
+    "birdeye": "https://birdeye.so/token/9ifFPcYRihBz1aWkg6wpYuyVar5RfhCvmfg83NQWe4CK?chain=solana",
+    "dexscreener": "https://dexscreener.com/solana/9ifFPcYRihBz1aWkg6wpYuyVar5RfhCvmfg83NQWe4CK",
+    "jupiter": "https://jup.ag/tokens/9ifFPcYRihBz1aWkg6wpYuyVar5RfhCvmfg83NQWe4CK",
+    "solscan": "https://solscan.io/token/9ifFPcYRihBz1aWkg6wpYuyVar5RfhCvmfg83NQWe4CK",
+    "raydium": "https://raydium.io/swap/?inputMint=sol&outputMint=9ifFPcYRihBz1aWkg6wpYuyVar5RfhCvmfg83NQWe4CK"
+  }
+}
