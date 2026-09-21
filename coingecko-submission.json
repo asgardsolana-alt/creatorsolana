@@ -1,0 +1,22 @@
+{
+  "id": "asgard-solana",
+  "symbol": "asg",
+  "name": "ASGARD",
+  "platforms": {
+    "solana": "9ifFPcYRihBz1aWkg6wpYuyVar5RfhCvmfg83NQWe4CK"
+  },
+  "links": {
+    "homepage": ["https://asgardsolana.com/"],
+    "twitter_screen_name": "Asgardsolana",
+    "telegram_channel_identifier": "t.me/+IZwwg3p5GtAwM2Vh",
+    "repos_url": {
+      "github": ["https://github.com/asgardsolana-alt/creatorsolana"]
+    }
+  },
+  "image": "https://asgardsolana.com/tokens/asgsl.png",
+  "description": "ASGARD (ASG) is the native utility and governance token powering the Asgard Solana ecosystem — a decentralized suite for SPL Token-2022 deployment, Raydium liquidity pools, multi-sender airdrops and staking. Fixed supply of 1,000,000,000 ASG. Mint and freeze authorities permanently revoked.",
+  "categories": ["Decentralized Finance (DeFi)", "Solana Ecosystem"],
+  "token_standard": "Token-2022",
+  "total_supply": "1000000000",
+  "max_supply": "1000000000"
+}
