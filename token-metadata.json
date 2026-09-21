@@ -1,0 +1,29 @@
+{
+  "name": "ASGARD",
+  "symbol": "ASG",
+  "description": "ASGARD (\) is the native utility and governance token powering the Asgard Solana ecosystem — a decentralized, non-custodial operations suite for token engineering on Solana. Fixed supply of 1,000,000,000 ASG. Mint and freeze authorities permanently revoked. Token-2022 standard. 0% transfer fees.",
+  "image": "https://asgardsolana.com/tokens/asgsl.png",
+  "external_url": "https://asgardsolana.com/",
+  "properties": {
+    "files": [
+      { "uri": "https://asgardsolana.com/tokens/asgsl.png", "type": "image/png" }
+    ],
+    "category": "image"
+  },
+  "extensions": {
+    "website": "https://asgardsolana.com/",
+    "twitter": "https://x.com/Asgardsolana",
+    "telegram": "https://t.me/+IZwwg3p5GtAwM2Vh",
+    "github": "https://github.com/asgardsolana-alt/creatorsolana",
+    "coingeckoId": "asgard-solana"
+  },
+  "attributes": [
+    { "trait_type": "Platform", "value": "Asgard Solana" },
+    { "trait_type": "Standard", "value": "Token-2022" },
+    { "trait_type": "Transfer Fee", "value": "0%" },
+    { "trait_type": "Mint Authority", "value": "Permanently Revoked" },
+    { "trait_type": "Freeze Authority", "value": "Permanently Revoked" },
+    { "trait_type": "Architecture", "value": "Non-Custodial" },
+    { "trait_type": "Total Supply", "value": "1,000,000,000 Fixed" }
+  ]
+}
